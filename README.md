@@ -1,1 +1,1 @@
-# Leetcode
+# LeetCode Progress Tracker 🧠💻  This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/) organized by difficulty and topic. The goal is to improve problem-solving skills and prepare for coding interviews.  ---  ## 📌 Repository Structure
