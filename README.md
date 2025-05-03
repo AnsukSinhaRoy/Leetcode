@@ -18,6 +18,9 @@ leetcode-progress/
 │ ├── 10_Regular_Expression_Matching.py
 │ └── ...
 ├── README.md
+└── progress.md
+
+
 ---
 
 ## 🗂️ Folder Organization
@@ -26,6 +29,8 @@ leetcode-progress/
 - `Medium/`: Solutions to problems labeled as Medium.
 - `Hard/`: Solutions to problems labeled as Hard.
 - Each file is named as: `ProblemNumber_ProblemName.py` for easy navigation.
+
+---
 
 ## 🛠️ How to Use
 
@@ -53,3 +58,5 @@ leetcode-progress/
 - Binary Search
 - Sliding Window
 - and more...
+
+---
