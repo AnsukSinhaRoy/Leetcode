@@ -46,17 +46,3 @@ leetcode-progress/
 - 🎯 Track growth and improvement over time
 
 ---
-
-## 🏷️ Tags Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Dynamic Programming
-- Graphs
-- Binary Search
-- Sliding Window
-- and more...
-
----
